@@ -1,8 +1,9 @@
 {
+ "id": "./reisearchiv-app",
  "name": "Reisearchiv",
  "short_name": "Reisearchiv",
  "description": "Reisen, Gewohnheiten und Statistik aus der Google-Zeitachse",
- "start_url": "./",
+ "start_url": "./index.html",
  "scope": "./",
  "display": "standalone",
  "orientation": "any",
